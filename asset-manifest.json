@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adhd-test/static/css/main.f6c6b59c.css",
+    "main.js": "/adhd-test/static/js/main.1e98a529.js",
+    "static/js/453.b0009ac6.chunk.js": "/adhd-test/static/js/453.b0009ac6.chunk.js",
+    "index.html": "/adhd-test/index.html",
+    "main.f6c6b59c.css.map": "/adhd-test/static/css/main.f6c6b59c.css.map",
+    "main.1e98a529.js.map": "/adhd-test/static/js/main.1e98a529.js.map",
+    "453.b0009ac6.chunk.js.map": "/adhd-test/static/js/453.b0009ac6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6c6b59c.css",
+    "static/js/main.1e98a529.js"
+  ]
+}
