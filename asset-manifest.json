@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ADHD-test%20/static/css/main.f6c6b59c.css",
-    "main.js": "/ADHD-test%20/static/js/main.59e2f38b.js",
-    "static/js/453.b0009ac6.chunk.js": "/ADHD-test%20/static/js/453.b0009ac6.chunk.js",
-    "index.html": "/ADHD-test%20/index.html",
-    "main.f6c6b59c.css.map": "/ADHD-test%20/static/css/main.f6c6b59c.css.map",
-    "main.59e2f38b.js.map": "/ADHD-test%20/static/js/main.59e2f38b.js.map",
-    "453.b0009ac6.chunk.js.map": "/ADHD-test%20/static/js/453.b0009ac6.chunk.js.map"
+    "main.css": "/ADHD-test/static/css/main.f6c6b59c.css",
+    "main.js": "/ADHD-test/static/js/main.0ba1a1a5.js",
+    "static/js/453.b0009ac6.chunk.js": "/ADHD-test/static/js/453.b0009ac6.chunk.js",
+    "index.html": "/ADHD-test/index.html",
+    "main.f6c6b59c.css.map": "/ADHD-test/static/css/main.f6c6b59c.css.map",
+    "main.0ba1a1a5.js.map": "/ADHD-test/static/js/main.0ba1a1a5.js.map",
+    "453.b0009ac6.chunk.js.map": "/ADHD-test/static/js/453.b0009ac6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6c6b59c.css",
-    "static/js/main.59e2f38b.js"
+    "static/js/main.0ba1a1a5.js"
   ]
 }
